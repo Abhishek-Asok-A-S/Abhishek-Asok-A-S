@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/d8/55/ad/d855ad574a63b786b26c8229365c506e.gif)
+![MasterHead](https://i.pinimg.com/originals/d8/55/ad/d855ad574a63b786b26c8229365c506e.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Asok AS</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
